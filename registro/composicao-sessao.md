@@ -126,7 +126,16 @@ O representante disse que existe um banco de fornecedores compartilhado com os c
 O cliente disse que a fábrica não entra em contato com o cliente, e ele não é usuário do sistema.
 
 ## 4. Composição final
-(lista dos participantes que entram no Party Mode)
+
+Agentes BMAD: a definir.
+
+Personas (stakeholders simulados):
+
+Dono ou gestor da AzLink
+Pessoa que registra ou organiza informações de fornecedores (hipótese)
+Pessoa que pesquisa ou avalia fornecedores (hipótese)
+Cliente comprador da AzLink (hipótese)
+Responsável por acesso e proteção de dados
 
 ## 5. Justificativa geral
-(2 a 4 frases: por que essa composição serve ao caso AzLink/NeoAtlas)
+    A composição foi filtrada a partir dos iniciais 12 participantes feitos pelo bmad. E a partir deste ponto inicial, o própio bmad assumiu que eram muitos participantes e nosso grupo chegou a conclusão de escolher estas personas. Cada um se liga a pendencia do cliente. Os demais foram exluidos e/ou unificados por falta de informação ou que dependiam de suposições não confirmadas pelo representante da AzLink, As personas marcadas como hipótese serão tratadas como hipóteses ou premissas nos artefatos. Como não há previsão de novo contato com o representante da AzLink, ficam registradas como pendências de validação.
