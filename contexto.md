@@ -2,6 +2,7 @@
 
 > Regra deste arquivo: tudo aqui foi dito pelo cliente na entrevista, ou está marcado como PENDÊNCIA.
 > Nada aqui é suposição do grupo ou da IA. Quem ler (agentes inclusive) não deve inventar além disso.
+> A seção 4 do contexto.md são interpretações do grupo, não fatos do cliente.
 
 ## 1. O caso
 - **Cliente:** AzLink, assessoria de importação.
@@ -48,5 +49,9 @@
 - Nenhum caso concreto de problema no registro foi relatado.
 - Quais papéis existem na hierarquia de acesso e quem vê o quê.
 
-## 4. Interpretações do grupo (preencher depois)
-- (nada ainda)
+## 4. Interpretações do grupo (NÃO confirmadas pelo cliente)
+- O grupo entende que não existe aplicativo hoje; o app é o próprio projeto NeoAtlas. Só existe a empresa.
+
+### Lacunas identificadas durante a sessão com o BMAD (não vieram do cliente)
+- Quais dados específicos são considerados sensíveis.
+- Como funcionam, em detalhes, a mensalidade, a porcentagem sobre as compras e o pagamento dentro do aplicativo.
