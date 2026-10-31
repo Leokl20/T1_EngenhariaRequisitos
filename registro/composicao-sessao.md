@@ -108,8 +108,7 @@ O representante disse que existe um banco de fornecedores compartilhado com os c
 
 
 **Responsável financeiro/comercial**
-    O cliente disse que a fábrica não entra em contato com o cliente, e ele não é usuário do sistema.
-
+    O cliente confirmou mensalidade, porcentagem sobre as compras e pagamento no app, mas não explicou as regras. Fica como lacuna a validar com ele, e não precisa de uma persona agora.
 
 **Administrador de empresa cliente**
     Pressupõe clientes com vários usuários e papéis, o que o cliente não disse.
@@ -122,6 +121,9 @@ O representante disse que existe um banco de fornecedores compartilhado com os c
 
 **Responsável técnico ou arquiteto**
     A elicitação é de requisitos. A capacidade de 50.000 usuários fica registrada como restrição.
+
+**Fornecedor chinês**
+O cliente disse que a fábrica não entra em contato com o cliente, e ele não é usuário do sistema.
 
 ## 4. Composição final
 (lista dos participantes que entram no Party Mode)
